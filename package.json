@@ -22,10 +22,8 @@
 		"js-data-http": "^2.2.2",
 		"bootstrap": "3.3.6",
 		"jquery": "2.2.2"
-	},
-	"devDependencies": {
-    "concurrently": "^2.0.0",
-    "lite-server": "^2.1.0",
+		"concurrently": "^2.0.0",
+    		"lite-server": "^2.1.0",
 		"gulp": "3.8.11",
 		"gulp-concat": "2.5.2",
 		"gulp-cssmin": "0.1.7",
@@ -34,5 +32,8 @@
 		"del": "2.2.0",
 		"typescript": "^1.8.2",
 		"typings": "^0.6.8"
+	},
+	"devDependencies": {
+    
 	}
 }
